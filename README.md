@@ -11,8 +11,12 @@
 # Projet Annuel 2023
 
 > Projet en groupe de 5 dans le cadre de notre 1ère année de Mastère **Système, Réseau & Cloud**.
-
-
+#### Credits : 
+- [0xGuillaume](https://github.com/0xGuillaume).
+- [0xbochi](https://github.com/0xbochi/).
+- [0xToonsy](https://github.com/0xToonsy)
+- [In-0o](https://github.com/In-0o)
+- [Rémi](https://github.com/R-D-Y)
 ## Description
 
 
